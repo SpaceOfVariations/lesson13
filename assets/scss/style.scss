@@ -1,0 +1,17 @@
+@import 'variable';
+
+.header {
+    @include header;
+}
+
+.general {
+    @include general;
+}
+
+.menu {
+    @include menu;
+}
+
+.footer {
+    @include footer;
+}
